@@ -1,4 +1,4 @@
-#' @useDynLib hector
+#' @useDynLib funt
 #' @importFrom Rcpp sourceCpp
 NULL
 
